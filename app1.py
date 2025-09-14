@@ -17,7 +17,7 @@ st.write("Fill in the details below to check your heart disease risk.")
 # Sidebar for better navigation
 st.sidebar.image("heart_logo.png", use_container_width=True)
 st.sidebar.write("This app helps predict heart disease based on medical parameters.")
-st.sidebar.markdown("[🌐Developer Portfolio](https://abhishekkn.netlify.app)", unsafe_allow_html=True)
+st.sidebar.markdown("[🌐Developer Portfolio](https://nithishgowda.netlify.app/)", unsafe_allow_html=True)
 
 # Styling
 st.markdown(
